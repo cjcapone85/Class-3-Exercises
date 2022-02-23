@@ -12,6 +12,7 @@ function printUserInfo(message = user) {
     console.log(message);
 };
 
+
 //printUserInfo();
 
 
