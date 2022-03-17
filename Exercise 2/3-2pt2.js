@@ -1,21 +1,26 @@
 const user = {
     name: "Chad",
-    age: 36,
-    occupation: "Electrician"
-
+    age: 37,
+    occupation: "electrician"
 };
 
 //console.log(user);
 
-function printUserInfo(user) {
-    //console.log(message);
+object.onclick = function printUser(info) {
+    //console.log(`Hello ${info}`);
+    
 };
 
+object.addEventListener("click", myScript);
 
-printUserInfo(user);
 
 
-//change to a string?
+
+printUser(user);
+
+
+
+
 
 
 // **Aim**: Create an application that, on button click, runs a function that prints out a users name, age, and occupation
