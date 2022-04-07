@@ -6,10 +6,10 @@ const user = {
 
 //console.log(user);
 
-object.onclick = function printUser(info) {
-    //console.log(`Hello ${info}`);
+// object.onclick = function printUser(info) {
+//     //console.log(`Hello ${info}`);
     
-};
+// };
 
 object.addEventListener("click", myScript);
 
